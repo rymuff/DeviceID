@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">디바이스 ID</string>
+    <string name="action_settings">설정</string>
+    <string name="send_to">공유하기</string>
+    <string name="key">키</string>
+    <string name="value">값</string>
+    <string name="imei">IMEI/MEID/ESN</string>
+    <string name="imsi">IMSI</string>
+    <string name="mac_address">MAC 주소</string>
+    <string name="serial_number">시리얼 번호</string>
+    <string name="android_id">안드로이드 ID</string>
+    <string name="advertising_id">광고 ID</string>
+    <string name="copy_clipboard">클립보드에 복사됨</string>
+    <string name="not_found">찾을 수 없음</string>
+    <string name="permission_required">권한 필요</string>
+</resources>
