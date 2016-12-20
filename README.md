@@ -1,2 +1,2 @@
 # DeviceID
-https://play.google.com/store/apps/details?id=com.kweisa.deviceid
+[Google Play](https://play.google.com/store/apps/details?id=com.kweisa.deviceid)
